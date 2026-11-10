@@ -23,7 +23,7 @@ A multi-company back-office system: sales documents, cash register, stock and cu
 ## Tech
 
 **Languages:** PHP · JavaScript · TypeScript · C#
-**Frameworks:** Laravel · NestJS · React · Next.js
+**Frameworks:** Laravel · NestJS · React · Next.js · Express · Fastify
 **Data:** PostgreSQL · MySQL · MongoDB · Redis
 **DevOps:** Docker · RabbitMQ · GitHub Actions · Laravel Forge · DigitalOcean
 
